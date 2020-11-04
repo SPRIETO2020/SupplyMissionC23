@@ -1,2 +1,1 @@
-# SupplyMissionC23
-vsc
+# SupplyMission
